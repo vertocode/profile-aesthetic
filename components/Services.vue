@@ -36,6 +36,7 @@ const state = reactive({
   width: 90%;
   background-color:#eee;
 }
+
 .services-content {
   display: flex;
   flex-wrap: wrap;
