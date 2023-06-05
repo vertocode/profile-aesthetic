@@ -4,7 +4,7 @@
       Érica Esteticista
     </header>
     <nav class="menu">
-      <a href="#about-me">Sobre Mim</a>
+      <a href="#">Sobre Mim</a>
       <a href="#services">Serviços</a>
       <a href="#portfolio">Portfólio</a>
       <a href="#contact">Contato</a>
@@ -14,7 +14,7 @@
 
 <style scoped>
 header {
-  background-color: #f99;
+  background-color: rgb(180,168,185);
   padding: 20px;
   text-align: center;
   color: #fff;

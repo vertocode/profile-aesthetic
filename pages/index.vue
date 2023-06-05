@@ -16,7 +16,7 @@ export default Vue.extend({
 
 <style>
 .title {
-  background-color: #f99;
+  background-color: rgb(180,168,185);
   color: white;
 }
 </style>
