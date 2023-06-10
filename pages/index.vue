@@ -3,6 +3,8 @@
     <Header />
     <AboutMe />
     <Services />
+    <Portfolio />
+    <Contact />
   </main>
 </template>
 
