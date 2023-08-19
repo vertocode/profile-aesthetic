@@ -2,18 +2,15 @@
   <main id="portfolio">
     <h2 class="text-center title">Portfolio</h2>
     <div class="volume">
-      <h3>Volume Brasileiro:</h3>
-      <Slider :images="volBr" style="margin: auto; width: 100%"/>
+      <Slider title="Volume Brasileiro" :images="volBr" />
     </div>
 
     <div class="volume">
-      <h3>Volume Egipcio:</h3>
-      <Slider :images="volEg" style="margin: auto; width: 100%"/>
+      <Slider title="Volume Egipcio" :images="volEg" />
     </div>
 
     <div class="volume">
-      <h3>Volume Russo:</h3>
-      <Slider :images="volRs" style="margin: auto; width: 100%"/>
+      <Slider title="Volume Russo" :images="volRs" />
     </div>
   </main>
 
@@ -26,7 +23,6 @@ const volBr = [
   {image: 'https://www.gaz.com.br/uploads/2022/06/P3-2-Brasileiro.jpg'},
   {image: 'https://cdn.sistemawbuy.com.br/arquivos/e82e7997317d0a500738e3499f96ce88/produtos/JE6SA3/volume-brasileiro-63ed2dfee669f.jpg'},
   {image: 'https://blog.meninashoes.com.br/wp-content/uploads/2023/01/extensao-de-cilios-volume-egipcio-maos-de-fada-1-1024x943.jpg'},
-  {image: 'https://florisbellaesmalteria.com.br/wp-content/uploads/2023/03/extensao-de-cilios-volume-brasileiro-manutencao-v1.jpg'}
 ]
 
 const volEg = [

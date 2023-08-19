@@ -4,7 +4,7 @@
     <AboutMe />
     <Services />
     <Portfolio />
-    <Contact />
+    <Contact style="margin-top: 2em"/>
   </main>
 </template>
 

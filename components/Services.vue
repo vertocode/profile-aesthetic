@@ -15,7 +15,7 @@
     <div style="width: 100%; display: flex; justify-content: center; align-items: center; margin-bottom: 1rem">
       <a
         class="btn btn-success mb-3"
-        style="color:white; width: 50rem; height: 3rem; background-color: rgb(180,168,185)"
+        style="color:white; width: max-content; background-color: rgb(180,168,185)"
         href="https://calendly.com/ericasleitao"
         target="_blank">
           Clique aqui para agendar o seu horário!
